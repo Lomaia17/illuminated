@@ -1,0 +1,38 @@
+nav {
+  display: flex;
+  margin-top: 40px;
+  margin-left: 45px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  margin-left: 75px;
+}
+li a {
+  font-family: 'Brandon Grotesque';
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #7F7F7F;
+  margin-right: 100px;
+}
+li a:hover{
+  border-bottom: 1px solid #7F7F7F;;
+}
+.nav-images{
+  display: flex;
+  margin-left: 70px;
+  align-items: center;
+}
+
+.search{
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.social{
+  margin-right: 10px;
+}
+
+.facebook {
+  margin-right: 15px;
+}
