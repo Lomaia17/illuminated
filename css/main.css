@@ -69,3 +69,33 @@ li a:hover{
   color: #19381F;
 }
 
+.section2{
+  background-color: #306B34;
+  height: 779px;
+  position: relative;
+}
+
+.info {
+  position: absolute;
+  top:153px;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+}
+
+.info-text{
+  width: 306px;
+  margin-left: 65px;
+}
+.info-text1{
+  font-family: 'Brandon Grotesque';
+  font-size: 40px; 
+  color: #19381F;
+  margin-bottom: 65px;
+}
+
+.info-text2{
+  font-family: 'Kazimir';
+  font-size: 20px;
+  color: #F4F4F1;
+}
