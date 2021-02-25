@@ -36,3 +36,36 @@ li a:hover{
 .facebook {
   margin-right: 15px;
 }
+
+.section1{
+  margin-top: 40px;
+  background-image: url(../images/Banner\ Image.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+  height: 855px;
+  width: 100%;
+}
+.wrapper{
+  display: flex;
+  width:100%;
+  justify-content: center;
+}
+
+.border{
+  position:relative;
+  top: 539px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+  width: 706px;
+  height: 187px;
+}
+
+.border-text {
+  font-family: 'Kazimir';
+  font-size: 40px;
+  color: #19381F;
+}
+
