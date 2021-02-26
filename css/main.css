@@ -1,12 +1,14 @@
 nav {
   display: flex;
-  margin-top: 40px;
+  margin-top: 15px;
   margin-left: 45px;
 }
 .navbar-ul {
   display: flex;
   align-items: center;
   margin-left: 75px;
+  width: 100%;
+  justify-content: center;
 }
 .navbar-ul li a {
   font-family: 'Brandon Grotesque';
