@@ -1,4 +1,10 @@
-
+header{
+  position:fixed;
+  top:0;
+  background-color: white;
+  width: 100%;
+  z-index: 1;
+}
 nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -49,7 +55,7 @@ nav {
 }
 
 .facebook {
-  margin-right: 15px;
+  margin-right: 70px;
 }
 
 .section1{
@@ -112,12 +118,10 @@ nav {
 
  
 }
-
 .info-image{
   margin-top: 150px;
   margin-left: 140px;
 }
-
 .info-text{
   margin-top: 150px;
   width: 306px;
