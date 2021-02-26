@@ -74,18 +74,24 @@ nav {
 .section2{
   background-color: #306B34;
   height: 779px;
-  position: relative;
+  /* position: relative; */
 }
 
-.info {
+.info {/*
   position: absolute;
-  top:153px;
-  justify-content: center;
+  top:153px;*/
+  
   display: flex;
-  width: 100%;
+  justify-content: center;
+ /* width: 100%; */
+ 
 }
-
+.info-image{
+  margin-top: 150px;
+  margin-left: 140px;
+}
 .info-text{
+  margin-top: 150px;
   width: 306px;
   margin-left: 65px;
 }
